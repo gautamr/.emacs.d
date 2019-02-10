@@ -117,5 +117,10 @@
 (require 'init-web)
 (require 'init-prog)
 
+;; additional
+(require 'init-clojure)
+(require 'init-haskell)
+
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; init.el ends here
